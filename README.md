@@ -7,7 +7,7 @@
     <a href="https://github.com/Legnakra?tab=followers ">
         <img src="https://img.shields.io/github/followers/Legnakra?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
-    <a href="www.linkedin.com/in/mjallozarodriguez">
+    <a href="https://www.linkedin.com/in/mjallozarodriguez/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
     </a>
     <a href="https://github.com/Legnakra?tab=repositories&sort=stargazers">
