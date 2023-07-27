@@ -1,7 +1,7 @@
 <img src="https://github.com/Legnakra/Legnakra/blob/main/banner.png">
 
 <h1 align="center"><b>Hi! 👋 Welcome to my Github profile 💻 </b></h1>
-<h2 align="center"><b>I'm studying Network and Computer Systems Administration</b></h2>
+<h2 align="center"><b>I'm Network and Computer Systems Administration</b></h2>
 
 <p align="center">
     <a href="https://github.com/Legnakra?tab=followers ">
